@@ -1,3 +1,2 @@
 # Análisis de datos principal
-# Análisis de ventas mejorado
-
+# Análisis de ventas
